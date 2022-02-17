@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors = ['kobby08']
   spec.email = ['linusquam@gmail.com']
 
-  spec.summary = 'Allow to view copyright details on each page.'
+  spec.summary = 'Allow to display copyright details on each page.'
   spec.description =
     'This gem has various methods to help render copyright details '
   spec.homepage = 'https://github.com/kobby08'
